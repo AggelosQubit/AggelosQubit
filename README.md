@@ -6,8 +6,8 @@
 				<span  style="text-align:center">Well HELLO there 👋!</span>
 				<br/>
 				<img 
-					width="100%" 
-					heigth="100%" 
+					width="30%" 
+					heigth="30%" 
 					src="https://user-images.githubusercontent.com/107952919/184846192-667ab018-58d5-4b8f-ae29-f14b0a41120c.jpg" 
 				/>
 			</div>
