@@ -17,7 +17,7 @@
 				- 🌱 I’m currently learning Mostly JavaScript/ NodeJS / Blockchain Tech Web3 / ReactJS / UNITY3D / Solidity ETH<br/>
 				- ⚡ Fun fact: <br/>
 						* I Play League :D 🎮<br/>
-						* Psyco-Historian 🧙<br/>
+						* Junior Psyco-Historian 🧙<br/>
 						* I Luuuv Space 🌌<br/>
 						* BlockChain NFT Crypto Space 📒<br/>
 						* Physics and Math even if i'm bad at them xD 🔭<br/>
