@@ -22,6 +22,7 @@
 						* BlockChain NFT Crypto Space 📒<br/>
 						* Physics and Math even if i'm bad at them xD 🔭<br/>
 						* The Kardashev Scale 👽<br/>
+						* Global Solar System Space Infrastructure (type two Civilisation)
 			</div>
 		</div>
   	</body>
