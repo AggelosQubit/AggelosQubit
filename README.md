@@ -3,7 +3,7 @@
 	<body container="fluid">
 		<div class="row card">
     			<div>
-				<span  style="text-align:center">Well HELLO there 👋!</span>
+				<span  style="text-align:center">Well Helloooo there 👋!</span>
 				<br/>
 				<img 
 					width="30%" 
