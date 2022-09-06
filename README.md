@@ -18,7 +18,7 @@
 				- ⚡ Fun fact: <br/>
 						* I Play League :D 🎮<br/>
 						* Junior Psyco-Historian 🧙<br/>
-						* I Luuuv Space 🌌<br/>
+						* I Luuuv Space  🌌<br/>
 						* BlockChain NFT Crypto Space 📒<br/>
 						* Physics and Math even if i'm bad at them xD 🔭<br/>
 						* The Kardashev Scale 👽<br/>
