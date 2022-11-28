@@ -13,7 +13,7 @@
 			</div>
 			<hr/>
 			<div>
-				- 🔭 I’m currently working on POCB : <a href="https://github.com/AggelosQubit/pocb#readme">POCB ReadME</a><br/>
+				- 🔭 I’m currently working on Enchant : <a href="https://github.com/AggelosQubit/Enchant_Zeta#readme">POCB ReadME</a><br/>
 				- 🌱 I’m currently learning Mostly JavaScript/ NodeJS / Blockchain Tech Web3 / ReactJS / UNITY3D / Solidity ETH<br/>
 				- ⚡ Fun fact: <br/>
 						* I Play League :D 🎮<br/>
