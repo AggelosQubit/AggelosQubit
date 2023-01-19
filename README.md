@@ -17,7 +17,7 @@
 						* I Play League :D 🎮<br/>
 						* Junior Psyco-Historian 🧙<br/>
 						* I Luuuv Space  🌌<br/>
-						* Very Interested if Financial Markets <br/>
+						* Very Interested if Financial Markets 📈<br/>
 						* BlockChain NFT Crypto Space 📒<br/>
 						* Physics and Math even if i'm bad at them xD 🔭<br/>
 						* The Kardashev Scale 👽<br/>
