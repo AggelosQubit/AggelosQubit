@@ -10,8 +10,7 @@
 					src="https://user-images.githubusercontent.com/107952919/208421355-5aec41cb-2456-4c7d-9b54-0bb6206e7f8a.jpg"/>
 			</div>
 			<hr/>
-			<div>
-				- 🔭 I’m currently working on : <a href="https://github.com/AggelosQubit/global_solar_system_infrastructure#readme">GSSI</a><br/>
+			<div
 				- 🌱 I’m currently learning Mostly JavaScript/ NodeJS / Blockchain Tech Web3 / ReactJS / UNITY3D / Solidity ETH<br/>
 				- ⚡ Fun fact: <br/>
 						* I Play League :D 🎮<br/>
