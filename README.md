@@ -30,12 +30,15 @@
 				<thead>
 					<tr><td>Title</td><td>URL</td> <td> Main Tech</td><td>Live</td></tr>
 				</thead>
-				<tbody>
-					<tr><td> GSSI 		</td><td> https://aggelos-gssi.netlify.app/ </td> 	<td>VueJS</td>		<td> ✔️ </td></tr>
-					<tr><td> Météo App 	</td><td> https://aggelos-weather.netlify.app/ </td> 	<td>VueJS</td>		<td> ✔️	</td> </tr>
-					<tr><td> Gain Potential</td> <td> https://aggelos-pg.netlify.app/</td> 		<td>ReactJS</td>	<td> ✔️ </td></tr>
-					<tr><td> Cookie Todolist</td><td> https://aggelos-todolist.netlify.app/ </td> 	<td>VueJS</td> 		<td> ✔️ </td></tr>
-					<tr><td> Forex Clock</td>    <td> https://aggelos-forexclock.netlify.app/ </td> <td>VueJS</td> 		<td> ✔️ </td></tr>
+				<tbody>	
+	<tr><td> Adavi💓	</td><td> Not Uploaded To Git </td> 	<td>NodeJS Electron Python</td>					<td> ❌ </td></tr>
+	<tr><td> GSSI 		</td><td> https://aggelos-gssi.netlify.app/ </td> 	<td>VueJS</td>					<td> ✔️ </td></tr>
+	<tr><td> Météo App 	</td><td> https://aggelos-weather.netlify.app/ </td> 	<td>VueJS</td>					<td> ✔️	</td> </tr>
+	<tr><td> Gain Potential</td> <td> https://aggelos-pg.netlify.app/</td> 		<td>ReactJS</td>				<td> ✔️ </td></tr>
+	<tr><td> Cookie Todolist</td><td> https://aggelos-todolist.netlify.app/ </td> 	<td>VueJS</td> 					<td> ✔️ </td></tr>
+	<tr><td> Forex Clock</td>    <td> https://aggelos-forexclock.netlify.app/ </td> <td>VueJS + ThreeJS</td>			<td> ✔️ </td></tr>
+	<tr><td> Enchant Zeta</td>    <td> Github Project </td> <td>NodeJS Truffle Suite Solidity, UNITY3D</td> 			<td> ❌ </td></tr>
+	<tr><td> Trading Monitoring <br>Progression</td>    <td> Github Project </td> <td>NodeJS (Express Bootstrap Or ReactJS)</td> 	<td> ❌ </td></tr>
 				</tbody>
 			</table>
 		</div>
