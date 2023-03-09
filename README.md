@@ -12,7 +12,7 @@
 			<hr/>
 			<div
 				- 🌱 I’m currently learning Mostly JavaScript/ NodeJS / Blockchain Tech Web3 / ReactJS / UNITY3D / Solidity ETH<br/>
-				- ⚡ Fun fact: <br/>
+				- ⚡ Fun facts: <br/>
 						* I Play League :D 🎮<br/>
 						* Junior Psyco-Historian #LongTermism🧙<br/>
 						* I Luuuv Space  🌌<br/>
