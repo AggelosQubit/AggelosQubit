@@ -39,6 +39,7 @@
 	<tr><td> Forex Clock</td>    <td> https://aggelos-forexclock.netlify.app/ </td> <td>VueJS + ThreeJS</td>			<td> ✔️ </td></tr>
 	<tr><td> Enchant Zeta</td>    <td> Github Project </td> <td>NodeJS Truffle Suite Solidity, UNITY3D</td> 			<td> ❌ </td></tr>
 	<tr><td> Trading Monitoring <br>Progression</td>    <td> Github Project </td> <td>NodeJS (Express Bootstrap Or ReactJS)</td> 	<td> ❌ </td></tr>
+	<tr><td> Love Language Finder <br>Progression</td>    <td> Github Project </td> <td>ReactJS / TypeScript</td> 	<td> ❌ </td></tr>
 				</tbody>
 			</table>
 		</div>
