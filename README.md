@@ -3,7 +3,7 @@
 	<body container="fluid">
 		<div class="row card">
     			<div>
-				<span  style="text-align:center;border : 1px solid wheat">Well Helloooo there 👋!</span>
+				<span  style="text-align:center;border : 1px solid white">Well Helloooo there 👋!</span>
 				<br/>
 				<img 	width="30%" 
 					heigth="30%" 
