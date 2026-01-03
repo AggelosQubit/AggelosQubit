@@ -31,6 +31,7 @@
 					<tr><td>Title</td><td>Prod URL / Code Access</td> <td> Main Tech</td><td>Live</td><td>Currently Mostly Working On</td></tr>
 				</thead>
 				<tbody>	
+<tr><td>DACLE Related	</td><td> Uploaded To Git </td> 	<td>NodeJS / Angular</td>				<td> ✔️ </td><td> ✔️ </td></tr>
 <tr><td> Adavi💓	</td><td> Not Uploaded To Git </td> 	<td>NodeJS Electron Python</td>				<td> ❌ </td><td> ❌ </td></tr>
 <tr><td> GSSI 		</td><td> https://aggelos-gssi.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
 <tr><td> Météo App 	</td><td> https://aggelos-weather.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
