@@ -33,6 +33,8 @@
 				<tbody>	
 <tr><td>DACLE Related	</td><td> Uploaded To Git </td> 	<td>NodeJS / Angular</td>				<td> ✔️ </td><td> ✔️ </td></tr>
 <tr><td> Adavi💓	</td><td> Not Uploaded To Git </td> 	<td>NodeJS Electron Python</td>				<td> ❌ </td><td> ❌ </td></tr>
+<tr><td> TickDash 		</td><td> Uploaded To Git (Software Web) </td> 	<td>Vanilla JS/HTML/CSS</td><td> ✔️ </td><td> ❌ </td></tr>			
+<tr><td> AuraEngeneer 		</td><td> https://auraengeneer.netlify.app/auraengineer </td> 	<td>Vanilla JS/HTML/CSS</td><td> ✔️ </td><td> ❌ </td></tr>
 <tr><td> GSSI 		</td><td> https://aggelos-gssi.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
 <tr><td> Météo App 	</td><td> https://aggelos-weather.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
 <tr><td> Gain Potential</td> <td> https://aggelos-pg.netlify.app/</td> 		<td>ReactJS</td>			<td> ✔️ </td><td> ❌ </td></tr>
