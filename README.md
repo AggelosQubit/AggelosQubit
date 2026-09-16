@@ -30,8 +30,7 @@
 				<thead>
 					<tr><td>Title</td><td>Prod URL / Code Access</td> <td> Main Tech</td><td>Live</td><td>Currently Mostly Working On</td></tr>
 				</thead>
-				<tbody>	
-					
+				<tbody>
 					<tr><td>French Defence Atlas	</td><td> https://frenchdefenceatlas.netlify.app/ </td> 	<td>Angular</td>	<td> ✔️ </td><td> ✔️ </td></tr>
 					<tr><td>DACLE Related	</td><td> Uploaded To Git </td> 	<td>NodeJS / Angular</td>				<td> ✔️ </td><td> ✔️ </td></tr>
 					<tr><td> Adavi💓	</td><td> Not Uploaded To Git </td> 	<td>NodeJS Electron Python</td>				<td> ❌ </td><td> ❌ </td></tr>
