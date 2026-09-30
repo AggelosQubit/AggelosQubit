@@ -34,7 +34,7 @@
 					<tr><td>French Defence Atlas	</td><td> https://frenchdefenceatlas.netlify.app/ </td> 	<td>Angular</td>	<td> ✔️ </td><td> ✔️ </td></tr>
 					<tr><td>DACLE Related	</td><td> Uploaded To Git </td> 	<td>NodeJS / Angular</td>				<td> ✔️ </td><td> ✔️ </td></tr>
 					<tr><td> Adavi💓	</td><td> Not Uploaded To Git </td> 	<td>NodeJS Electron Python</td>				<td> ❌ </td><td> ❌ </td></tr>
-					<tr><td> TickDash 		</td><td> Uploaded To Git (Software Web) </td> 	<td>NodeJS/Vanilla JS/HTML/CSS</td><td> ✔️ </td><td> ❌ </td></tr>			
+					<tr><td> TickDash 		</td><td> Uploaded To Git (Software Web) </td> 	<td>NodeJS/Vanilla JS/HTML/CSS</td><td> ✔️ </td><td> ✔️ </td></tr>			
 					<tr><td> AuraEngeneer 		</td><td> https://auraengeneer.netlify.app/auraengineer </td> 	<td>Vanilla JS/HTML/CSS</td><td> ✔️ </td><td> ❌ </td></tr>
 					<tr><td> GSSI 		</td><td> https://aggelos-gssi.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
 					<tr><td> Météo App 	</td><td> https://aggelos-weather.netlify.app/ </td> 	<td>VueJS</td>				<td> ✔️ </td><td> ❌ </td></tr>
@@ -44,7 +44,7 @@
 					<tr><td> Enchant Zeta</td>    <td> Github Project </td> <td>NodeJS Truffle Suite Solidity, UNITY3D</td> 		<td> ❌ </td><td> ❌ </td></tr>
 					<tr><td> Trading Monitoring <br>Progression</td>    <td> Github Project </td> <td>NodeJS (Express Bootstrap Or ReactJS)</td><td> ❌ </td><td> ❌ </td></tr>
 					<tr><td> Love Language Finder <br>Progression</td>    <td> Github Project </td> <td>ReactJS / TypeScript</td> 	<td> ❌ </td><td> ❌ </td></tr>
-					<tr><td> Back-End Fundamentals	</td><td>Uploaded To Git </td> 	<td>NodeJS (JavaScript /TypeScript?)</td>				<td> ❌ </td><td> ✔️ </td></tr>
+					<tr><td> Back-End Fundamentals	</td><td>Uploaded To Git </td> 	<td>NodeJS (JavaScript /TypeScript?)</td>				<td> ❌ </td><td> ❌ </td></tr>
 				</tbody>
 			</table>
 		</div>
